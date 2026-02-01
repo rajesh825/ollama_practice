@@ -1,0 +1,55 @@
+Here is the categorized list of grocery items:
+
+**Fruits**
+----------------
+1. Apples
+2. Bananas
+3. Orange Juice
+
+**Vegetables**
+-----------------
+1. Bell Peppers
+2. Carrots
+3. Cucumbers
+4. Lettuce
+5. Onions
+6. Potatoes
+7. Spinach
+8. Tomatoes
+
+**Dairy**
+-------------
+1. Butter
+2. Cheese
+3. Eggs
+4. Milk
+5. Yogurt
+
+**Meat**
+---------
+1. Chicken Breast
+
+**Grains**
+----------------
+1. Bread
+2. Cereal
+3. Flour
+4. Pasta
+5. Rice
+
+**Snacks**
+-----------------
+1. Cereal Bars
+2. Peanut Butter
+
+**Beverages**
+----------------
+1. Coffee
+2. Tea
+
+**Pantry**
+-----------------
+1. Garlic
+2. Olive Oil
+3. Salt
+4. Sugar

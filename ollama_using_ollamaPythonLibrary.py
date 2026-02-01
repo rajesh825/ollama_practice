@@ -1,4 +1,3 @@
-from doctest import Example
 import ollama
 
 
@@ -26,3 +25,10 @@ res = ollama.chat(
 for chunk in res:
     print(chunk["message"]["content"], end="", flush=True)
 
+# Example 4 - Using Ollama Generate api
+
+res = ollama.generate(model="llama3.2", prompt="Why is the sky blue ?")
+
+# Show the generated text
+# print(ollama.show("llama3.2"))
+print(res["response"])
